@@ -1,0 +1,14 @@
+.gameoverComponent {
+  display: flex;
+  flex-direction: column;
+  background-color: blueviolet;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  border-radius: 15px;
+}
+
+.gameoverImage {
+  width: 250px;
+  height: 250px;
+}
